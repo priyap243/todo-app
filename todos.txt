@@ -1,7 +1,5 @@
 add a new player
 update the OS
-make soup
-make pizza
 clean the code
 greet client
-
+Buy plants
